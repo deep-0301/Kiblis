@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kiblis/static/css/main.0ef0970c.css",
+    "main.js": "/Kiblis/static/js/main.3c1a033d.js",
+    "index.html": "/Kiblis/index.html",
+    "main.0ef0970c.css.map": "/Kiblis/static/css/main.0ef0970c.css.map",
+    "main.3c1a033d.js.map": "/Kiblis/static/js/main.3c1a033d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef0970c.css",
+    "static/js/main.3c1a033d.js"
+  ]
+}
